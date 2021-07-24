@@ -1,4 +1,4 @@
-### Hi there, I'm Stan - aka [CraigHardy]
+### Hi there, I'm Stan
 
 ## I'm a Developer and Cyber Security Engineer/Penetration Tester!!
 
