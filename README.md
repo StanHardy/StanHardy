@@ -23,8 +23,3 @@
 
 <br />
 <br />
----
-# info
-[![StanHardy gitstats](https://github-readme-stats.vercel.app/api?username=StanHardy&theme=nord&layout=compact)](https://github.com/StanHardy)
-
-</details>
