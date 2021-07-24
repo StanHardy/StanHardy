@@ -24,9 +24,7 @@
 <br />
 <br />
 ---
-<details>
-  <summary>:zap: GitHub Stats</summary>
-
-  <img align="left" alt="Stan's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=StanHardy&theme=nord&layout=compact)](https://github.com/StanHardy)/>
+# info
+[![StanHardy gitstats](https://github-readme-stats.vercel.app/api?username=StanHardy&theme=nord&layout=compact)](https://github.com/StanHardy)
 
 </details>
