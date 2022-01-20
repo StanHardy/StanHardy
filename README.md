@@ -1,6 +1,6 @@
 ### Hi there, I'm Stan
 
-## I'm a Developer and Cyber Security Engineer/Penetration Tester!!
+## I'm a Developer and Cyber Security Engineer/Penetration Tester.
 
 ### Languages and Tools:
 
